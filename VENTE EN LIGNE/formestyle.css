@@ -1,0 +1,61 @@
+body {
+    font-family: poppins;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgba(255, 255, 255, 0.432);
+    color: rgb(0, 0, 0);
+}
+
+a{
+    color: rgb(0, 0, 0);
+}
+a{
+    border-radius: 10px;
+   
+}
+label{
+    font-weight: none;
+}
+.box-area{
+    width: 930px;
+}
+#card{
+    background-color: rgb(255, 255, 255);
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+.divise{
+    margin-top: 12px;
+    border-bottom: 1px solid rgb(206, 204, 204);
+}
+img{
+    
+    width: 400px;
+}
+#margeimg{
+    margin-left: 70px;
+}
+#icommande{
+    width: 20px;
+}
+#bronde{
+width: 100px;
+background-color: rgb(204, 202, 202);
+border: none;
+margin-bottom: 5px;
+}
+#image{
+    display: none;
+}
+#vers{
+   margin-top: 40px;
+}
+#btn{
+    background-color: #cf7826;
+    border: none;
+}
+.divises{
+    margin-top: 12px;
+}
